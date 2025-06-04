@@ -14,13 +14,12 @@ To delete a customer, authenticate using the following credentials:
 
 **Endpoint:**  
 `POST http://localhost:5065/api/auth/login`
-
-**Payload:**  
 ```json
 {
   "username": "admin",
   "password": "password"
 }
+
 API Endpoints
 Get All Customers GET http://localhost:5065/api/Customer
 
